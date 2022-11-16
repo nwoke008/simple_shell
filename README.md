@@ -150,5 +150,4 @@ Your shell can take a file as a command line argument The file contains all the 
 
 Contributors
 Alao Olalekan
-&
 Uchenna Nwoke
